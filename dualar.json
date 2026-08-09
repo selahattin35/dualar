@@ -48,30 +48,30 @@
     },
     {
       "id": "d00006",
-      "grpid": "g00001",
+      "grpid": "g00002",
+      "tur": "sureler",
       "name": "Haşr Suresi 22.",
       "text": "Huvallâhullezî lâ ilâhe illâ huve, âlimul gaybi veş şehâdeti, huver rahmânur rahîm(rahîmu).",
       "meaning": "O Allah ki, O’ndan başka ilah yoktur. Görüleni de görülmeyeni de bilendir. O, Rahmân’dır, Rahîm’dir.",
-      "goal": 1,
-      "tur": "genel"
+      "goal": 1
     },
     {
       "id": "d00007",
-      "grpid": "g00001",
+      "grpid": "g00002",
+      "tur": "sureler",
       "name": "Haşr Suresi 23",
       "text": "Huvallâhullezî lâ ilâhe illâ huve, el melikul kuddûsus selâmul mu'minul muheyminul azîzul cebbârul mutekebbir(mutekebbiru), subhânallâhi ammâ yuşrikûn(yuşrikûne).",
       "meaning": "O Allah ki, O’ndan başka ilah yoktur. Melik’tir, Kuddûs’tür, Selâm’dır, Mü’min’dir, Müheymin’dir, Azîz’dir, Cebbâr’dır, Mütekebbir’dir. Allah, onların ortak koştuklarından münezzehtir.",
-      "goal": 1,
-      "tur": "genel"
+      "goal": 1
     },
     {
       "id": "d00008",
-      "grpid": "g00001",
+      "grpid": "g00002",
+      "tur": "sureler",
       "name": "Haşr Suresi 24.",
       "text": "Huvallâhul hâlikul bâriul musavviru lehul esmâul husnâ, yusebbihu lehu mâ fîs semâvâti vel ard(ardı) ve huvel azîzul hakîm(hakîmu).",
       "meaning": "O Allah yaratandır, yoktan var edendir, şekil verendir. En güzel isimler O’nundur. Göklerde ve yerde olanların hepsi O’nu tesbih eder. O Azîz’dir, Hakîm’dir.",
-      "goal": 1,
-      "tur": "genel"
+      "goal": 1
     },
     {
       "id": "d00009",
@@ -120,12 +120,12 @@
     },
     {
       "id": "d00014",
-      "grpid": "g00001",
+      "grpid": "g00002",
+      "tur": "sureler",
       "name": "Nas",
       "text": "Bismillahirrahmanirrahim \nKul e'ûzü birabbinnâsi. Melikinnâsi. İlâhinnâs. Min şerrilvesvâsilhannâs. Ellezî yüvesvisü fî sudûrinnâsi. Minelcinneti vennâs.",
       "meaning": "Rahmân ve Rahîm olan Allah´ın adıyla\nDe ki: \"Cinlerden ve insanlardan; insanların kalplerine vesvese veren sinsi vesvesecinin kötülüğünden, insanların Rabbine, insanların Melik'ine, insanların İlah'ına sığınırım.\" (1-6)",
-      "goal": 1,
-      "tur": "genel"
+      "goal": 1
     },
     {
       "id": "d00015",
