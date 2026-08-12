@@ -22,11 +22,13 @@
     {
       "id": "d00003",
       "grpid": "g00001",
+      "tur": "genel",
       "name": "Sübhanallah",
       "text": "Sübhanallah",
+      "arabic": "\"سُبْحَانَ اللَّهِ\"",
       "meaning": "Allah her türlü noksanlıktan uzaktır.",
-      "goal": 33,
-      "tur": "genel"
+      "source": "",
+      "goal": 33
     },
     {
       "id": "d00004",
