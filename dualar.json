@@ -405,7 +405,7 @@
   "lists": [
     {
       "id": "default",
-      "name": "Tüm Dualar akşam",
+      "name": "Akşam",
       "items": [
         {
           "id": "d00001",
@@ -575,7 +575,7 @@
     },
     {
       "id": "list_1cec4488",
-      "name": "sabah",
+      "name": "Sabah",
       "items": [
         {
           "id": "d00001",
