@@ -400,6 +400,17 @@
       "arabic": "",
       "meaning": "Ya Rabbi, bana ve diğer yarattıklarına verdiğin maddi ve manevi nimetlerin sabaha (akşama) kadar bizim yanımızda kalması yalnız Sendendir. Senin ortağın yoktur. Sana hamd ve şükrediyoruz.\n[Akşam okurken (Mâ esbaha) yerine (Mâ emsa) demelidir.]",
       "goal": 1
+    },
+    {
+      "id": "d00045",
+      "grpid": "g00001",
+      "tur": "genel",
+      "name": "Bismillahirrahmanirrahim",
+      "text": "Bismillahirrahmanirrahim",
+      "arabic": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "meaning": "Rahman ve Rahim olan Allah'ın adıyla",
+      "source": "",
+      "goal": 1
     }
   ],
   "lists": [
