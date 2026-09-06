@@ -652,28 +652,6 @@
       "source": "Ebu Davud"
     },
     {
-      "id": "d00071",
-      "grpid": "g00012",
-      "tur": "yemek",
-      "name": "Yemekten önce",
-      "text": "Bismillah",
-      "meaning": "Allah'ın adıyla.",
-      "goal": 1,
-      "arabic": "بِسْمِ اللَّهِ",
-      "source": "Buhari, Müslim"
-    },
-    {
-      "id": "d00072",
-      "grpid": "g00012",
-      "tur": "yemek",
-      "name": "Yemek sonrası hamd",
-      "text": "Elhamdülillahil lezi at'ameni haza ve razakanihi",
-      "meaning": "Bunu bana yediren ve rızık veren Allah'a hamdolsun.",
-      "goal": 1,
-      "arabic": "الْحَمْدُ لِلَّهِ الَّذِي أَطْعَمَنِي هَذَا وَرَزَقَنِيهِ",
-      "source": "Ebu Davud, Tirmizi"
-    },
-    {
       "id": "d00073",
       "grpid": "g00011",
       "tur": "sıkıntı",
